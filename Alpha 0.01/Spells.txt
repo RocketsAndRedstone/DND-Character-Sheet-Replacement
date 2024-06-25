@@ -1,0 +1,6 @@
+0Test,
+3lesser restoration,
+4Test anew,
+0firebolt,
+3test,
+0Healing Word,
